@@ -1,0 +1,29 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+    display: inline;
+}
+
+.heading button{
+    border: 3px solid rgb(214, 97, 97);
+    float: right;
+}
+
+.big_img{
+    width: 100%;
+}
+
+#Start , #Status{
+    font-size: 20px;
+}
+
+#canvas{
+    box-shadow: 5px wheat;
+}
+
+video{
+    position: center;
+}
